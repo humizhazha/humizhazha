@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 📫 How to reach me: vivianhhw@gmail.com
 - 😄 Pronouns: 魔女の読書
+- 🤔 Status Update: Currently hungry 🍔🍟🌭🌮🥗🍪
 
 <!--
 **humizhazha/humizhazha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
